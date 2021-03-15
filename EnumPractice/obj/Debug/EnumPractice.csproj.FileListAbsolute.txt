@@ -1,0 +1,20 @@
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe.config
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\bin\Debug\EnumPractice.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\obj\Debug\EnumPractice.Properties.Resources.resources
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.GenerateResource.cache
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\obj\Debug\EnumPractice.exe
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\obj\Debug\EnumPractice.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\EnumPractice\EnumPractice\obj\Debug\EnumPractice.Form.resources
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csprojAssemblyReference.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\obj\Debug\EnumPractice.Form.resources
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\obj\Debug\EnumPractice.Properties.Resources.resources
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.GenerateResource.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\obj\Debug\EnumPractice.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\obj\Debug\EnumPractice.pdb
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe.config
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\EnumPractice\EnumPractice\bin\Debug\EnumPractice.pdb
