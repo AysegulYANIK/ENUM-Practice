@@ -95,6 +95,7 @@ namespace EnumPractice
         {
             InitializeComponent();
         }
+
         public class Document
         {
             string mimetype;
@@ -122,6 +123,8 @@ namespace EnumPractice
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            //Formun içinde bir resim yüklenir.
             //Yüklenen resmin uzantısına göre ve belge tipine göre işlem farklılık göstersin istediğimiz durumlarda, Enum kullanmak mantıklı.
             string doktip = textBox1.Text;
             DocumentType d_type;
@@ -133,10 +136,10 @@ namespace EnumPractice
                 case "AnesteziNotu":
                     d_type = DocumentType.AnesteziNotu;
                     break;
-                case "DigerTazmEvr":
-                    d_type = DocumentType.DigerTazmEvr;
+                case "AcikRizaBeyani":
+                    d_type = DocumentType.AcikRizaBeyani;
                     break;
-                case "EpikrizNot":
+                case "EpikrizNotu":
                     d_type = DocumentType.EpikrizNotu;
                     break;
                 case "Fatura":
@@ -144,6 +147,9 @@ namespace EnumPractice
                     break;
                 case "FaturaDokum":
                     d_type = DocumentType.FaturaDokum;
+                    break;
+                case "GorSonuc":
+                    d_type = DocumentType.GorSonuc;
                     break;
                 case "HastaBilgiFormu":
                     d_type = DocumentType.HastaBilgiFormu;
@@ -172,15 +178,16 @@ namespace EnumPractice
                 case "TetkikSonucu":
                     d_type = DocumentType.TetkikSonucu;
                     break;
+
                 default:
                     d_type = DocumentType.DigerTazmEvr;
                     break;
             }
             dosyaTipi.Text = GetDocumentType(d_type);
 
-            string uztip = textBox2.Text;
+            string dokuzan = textBox2.Text;
             MimeType m_type;
-            switch (uztip)
+            switch (dokuzan)
             {
                 case "doc":
                     m_type = MimeType.doc;
@@ -200,6 +207,7 @@ namespace EnumPractice
                 case "sheet":
                     m_type = MimeType.sheet;
                     break;
+
                 default:
                     m_type = MimeType.jpeg;
                     break;
